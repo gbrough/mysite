@@ -1,14 +1,18 @@
 ## Garrett's Page
--   **Names of contributors:**  If you are working on a project on your own, you will be the only contributor. However, if you are working with a pair or in a group, you will need to list all contributors.
--   **Brief description of the project**: What does the project  _do_? This should be a quick summary of what the project can be used for. Here are some examples:
-    -   Bootstrap: "Sleek, intuitive, and powerful front-end framework for faster and easier web development."
-    -   React: "React is a JavaScript library for building user interfaces."
-    -   A student HTML project: "Demonstration site showcasing HTML, CSS, and jQuery."
--   **Technologies used**: You should always include a section that describes the technologies used in the project. This serves a number of purposes:
-    -   You can better showcase your skills by listing the technologies used. This can get a potential employer's attention.
-    -   This can help other users determine whether they want to use or modify the project. For instance, if a project uses Ruby, a Ruby programmer might want to clone and modify that project. On the other hand, a programmer that doesn't use Ruby might choose another project instead.
--   **Longer description of the project as needed**: This includes any extra details you might need to share about the project such as how to use it or specific features.
--   **Complete setup/installation instructions**: At this point, your setup and installation instructions will be minimal. However, later in the program, they will often be more involved. These instructions are necessary so that other users can actually download and use your project. The best way to generate installation instructions is to clone your project and then walk through all the steps necessary to get the project running, documenting them along the way.
--   **Known bugs**: If there are any bugs in your application or features that are incomplete or not working correctly, they should be included in this section. This section can help users determine whether they should use the project. Adding known bugs can also be helpful for your future self. For instance, if you return to a project that you haven't worked on for a while, it's helpful to have a quick refresher on what's not working. Finally, adding information about known bugs can allow others to help you identify and fix those bugs - including your classmates and instructors.
--   **License information with a copyright and date**: A standard license such as an  [MIT license](https://opensource.org/licenses/MIT)  allows others to use and modify your project.
--   **Contact information**: This is a great way for potential collaborators or employers to get in touch with you.
+    ###Authored by:  Garrett Broughton
+    ### Project Description: 
+    -   HTML: "Build with HTML tags including p,h,ul,ol,li,em,strong,a,img,div, and span."
+    -   CSS: "Added CSS Styling for formatting including margin, border, padding, and floats"
+    -   A home page about with information about me "Demonstration site showcasing HTML & CSS"
+    ###Technologies used:
+    -   HTML was used for creating the basic information in the header, body, and paragraphs.
+    -   CSS was used to format the page around the header, body, image and text.
+    -   Github was also utilized to practices saving changes and providing the Readme instructions.
+
+    ###Complete setup/installation instructions: If you would like to contribute to this project, you're welcome to clone it. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
+    
+    ###Known bugs: This is a starter website with limited features. There are not known bugs at the deployment of this site. If you would like to make a change, feel free to submit a Github pull request.
+    
+    ### [MIT license](https://opensource.org/licenses/MIT) others are allowed modify or reuse this project.
+
+    ###Contact information: Message me on LinkedIn @ https://www.linkedin.com/in/gbroughton/
