@@ -16,26 +16,22 @@ body {
   width: 40%;
   box-sizing: border-box;
 }
-
-.my-class {
-  border: 2px solid green;
-  padding: 10px;
-  background-color: grey;
-  display: block;
-  margin: auto;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  width: 50%;
-  box-sizing: border-box;
+.highlight {
+  text-align: center;
+  color:blue
 }
-
 .box {
   width: 50%;
+  padding: 5px;
   border: solid black;
   border-width: 1px;
   background-color: rgb(220, 224, 220);
   margin-bottom: 10px;
   box-sizing: border-box;
+}
+.txt-format{
+  list-style: inside;
+  text-align: left;
 }
 
 
