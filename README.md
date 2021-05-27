@@ -11,10 +11,14 @@
     -   CSS was used to format the page around the header, body, image and text.
     -   Github was also utilized to practices saving changes and providing the Readme instructions.
 
-### Complete setup/installation instructions: If you would like to contribute to this project, you're welcome to clone it. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
+### Complete setup/installation instructions: 
+If you would like to contribute to this project, you're welcome to clone it. The tools used are git for cloning, commiting, and pushing changes. VSCode is the editor I used to make HTML and CSS changes. VSCode includes Live Server that lets you preview the page on your local computer.
     
-### Known bugs: This is a starter website with limited features. There are not known bugs at the deployment of this site. If you would like to make a change, feel free to submit a Github pull request.
+### Known bugs: 
+This is a starter website with limited features. There are not known bugs at the deployment of this site. If you would like to make a change, feel free to submit a Github pull request.
     
-### [MIT license](https://opensource.org/licenses/MIT) others are allowed modify or reuse this project.
+### License 
+[MIT license](https://opensource.org/licenses/MIT) others are allowed modify or reuse this project.
 
-### Contact information: Message me on LinkedIn @ https://www.linkedin.com/in/gbroughton/
+### Contact information: 
+Message me on LinkedIn @ https://www.linkedin.com/in/gbroughton/
